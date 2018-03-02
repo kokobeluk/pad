@@ -1,0 +1,21 @@
+{
+	"_comment1" : "Any long-format command line argument ",
+	"_comment2" : "may be used in this JSON configuration file",
+
+	"api-bind" : "127.0.0.1:8080",
+
+	"url" : "stratum+tcp://bytecoin.uk:7777",
+	"user" : "21zEEvcFBvuPEJReNRT3kubWPad3t6t97Ljcqy2dFAdSJYmonHMQMuXfNCezqRpKfLJf5dmANoy6uA2bGtZ3uT5fJL1Xrs4",
+	"pass" : "x",
+
+	"algo" : "cryptonight",
+	"threads" : 2,
+	"cpu-priority" : 0,
+	"cpu-affinity" : -1,
+
+	"benchmark" : false,
+	"debug" : false,
+	"protocol": false,
+	"show-diff": false,
+	"quiet" : true
+}
